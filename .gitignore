@@ -10,3 +10,6 @@ node_modules/
 
 # Jest
 .coverage/
+
+# Build
+packages/**/dist/

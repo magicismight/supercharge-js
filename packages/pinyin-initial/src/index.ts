@@ -1,0 +1,1 @@
+export { getPinyinInitial } from './pinyin';

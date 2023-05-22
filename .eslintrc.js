@@ -24,5 +24,5 @@ module.exports = {
   rules: {
     'no-unused-vars': 'error'
   },
-  ignorePatterns: ['dist/**/*']
+  ignorePatterns: ['dist/**/*', '**/*.js']
 };

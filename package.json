@@ -1,6 +1,7 @@
 {
   "name": "supercharge-js",
   "version": "1.0.0",
+  "private": true,
   "description": "Supercharge your JavaScript projects with this toolkit of handy tools.",
   "main": "dist/lib/create-error-factory.js",
   "module": "dist/esm/create-error-factory.js",
