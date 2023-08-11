@@ -1,3 +1,3 @@
 # supercharge-js
 
-A quick starter template for typescript project
+Simple tools for js
